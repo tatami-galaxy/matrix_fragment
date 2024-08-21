@@ -149,9 +149,6 @@ def find_fragments(matrix_file):
     return output_fragments_by_shape
 
 
-        
-
-
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
